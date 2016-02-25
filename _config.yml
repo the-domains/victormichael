@@ -1,6 +1,6 @@
 name: victormichael
 favicon: null
-layout_spectrum: 0.9274515316355973
+layout_spectrum: 1
 typography_spectrum: 0.04444
 title: PREMIUM DIGITAL MARKETING STRATEGIES
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.9666395906824619
-  lightness: 0.27160048205405474
+    - '#000000'
+    - '#fe7c00'
+    - '#fec200'
+    - '#cd3d00'
+    - '#fee33f'
+  brandStrength: 0.875
+  lightness: 0.0625
   saturation: 0.05527657503262162
-  rhythmicContrast: 0.9757317944895476
+  rhythmicContrast: 1
 purpose: []
