@@ -1,7 +1,7 @@
 name: victormichael
 favicon: null
 layout_spectrum: 0.75323
-typography_spectrum: 0.15829
+typography_spectrum: 0.15638
 title: PREMIUM DIGITAL MARKETING STRATEGIES
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#50ba94'
     - '#6d6d6d'
     - '#f1961d'
-  brandStrength: 0.1875
-  lightness: 0.1875
+  brandStrength: 1
+  lightness: 0.125
   saturation: 0.5625
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
