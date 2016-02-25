@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PREMIUM DIGITAL MARKETING STRATEGIES]]></title>
         <description><![CDATA[PREMIUM DIGITAL MARKETING STRATEGIES]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://victormichael.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 17:13:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 17:14:07 GMT</lastBuildDate>
+        <atom:link href="http://victormichael.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is my first post</p>]]></description>
-            <link>undefined08e3299a-1e94-45f0-9fbc-b1c788690553/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2841e206-6fd9-4f41-a7c7-6282ca7a5847.png">]]></description>
+            <link>http://victormichael.ca/08e3299a-1e94-45f0-9fbc-b1c788690553/index.html</link>
             <guid isPermaLink="false">08e3299a-1e94-45f0-9fbc-b1c788690553</guid>
-            <pubDate>Thu, 25 Feb 2016 17:13:22 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 17:13:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
